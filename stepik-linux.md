@@ -1,16 +1,10 @@
----
-title: "Прохождение курса «Введение в Linux»"
-permalink: /projects/stepik-course/
----
-
 # Прохождение курса «Введение в Linux» (Stepik)
 
 **Студент:** Чжу Жуйи  
 **Группа:** НПИбд-02-25  
 
 ## Сертификат
-[Скачать PDF](./stepik-certificate-73-98dee39.pdf)  
-[Ссылка на Stepik](https://stepik.org/certificate/73-98dee39)
+[Ссылка на Stepik](https://stepik.org/cert/3249340)
 
 ## Отчёты
 - [Первый этап (PDF)](./report_1.pdf)
