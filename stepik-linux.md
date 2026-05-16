@@ -7,7 +7,7 @@
 [Ссылка на Stepik](https://stepik.org/cert/3249340)
 
 ## Отчёты
-- [Первый этап (PDF)](./report_1.pdf)
+- [Первый этап (PDF)](https://github.com/zchzhu/study_2025-2026_os-intro/blob/20f1be6b79a528b946bd9678f53699fc368ffda9/template/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%B0/%D0%BE%D1%82%D1%87%D1%91%D1%82%201%20.pdf)
 - [Второй этап (PDF)](./report_2.pdf)
 - [Третий этап (PDF)](./report_3.pdf)
 
